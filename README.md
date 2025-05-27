@@ -60,8 +60,8 @@ Open the notebook in Google Colab or run the converted Python script. The notebo
 |-------------------------------------|--------------------------------------------------|
 | `coffee_cup_detection_&_tracking.ipynb` | Main Jupyter Notebook containing the logic      |
 | `README.md`                         | You’re here!                                     |
-| `dataset.zip/coffee_mugs.mp4`              | Sample input video    |
-| `dataset.zip/mug_tracking_output.mp4`           | Output video with tracking      |
+| `dataset/coffee_mugs.mp4`              | Sample input video    |
+| `dataset/mug_tracking_output.mp4`           | Output video with tracking      |
 
 ---
 
