@@ -68,7 +68,7 @@ Open the notebook in Google Colab or run the converted Python script. The notebo
 ## 🧪 Test Data Access
 
 If you are not using your own video:
-- Use from [Coffee Mug]([https://colab.research.google.com/drive/1FbaAyfhxhLkM3sHtlU76gP6RZKeBVRn8](https://www.pexels.com/video/video-of-men-talking-over-coffee-4667486/)).
+- Use from [Coffee Mug Video]([https://colab.research.google.com/drive/1FbaAyfhxhLkM3sHtlU76gP6RZKeBVRn8](https://www.pexels.com/video/video-of-men-talking-over-coffee-4667486/)).
 - Or replace it with your own video containing mugs or cups.
 
 ---
