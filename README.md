@@ -39,8 +39,7 @@ Output will be saved to:
 ```plaintext
 /content/drive/MyDrive/dataset/mug_tracking_output.mp4
 ```
-<img src="mug_tracking_output.gif" alt="Tracking Demo" width="900"/>
-
+![Tracking Demo](mug_tracking_output.gif)
 
 ---
 
