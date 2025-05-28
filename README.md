@@ -32,12 +32,14 @@ Place your input video (e.g., `coffee_mugs.mp4`) in a suitable path like:
 ```plaintext
 /content/drive/MyDrive/dataset/coffee_mugs.mp4
 ```
+## 🎞️ Input Video
 
 Output will be saved to:
 
 ```plaintext
 /content/drive/MyDrive/dataset/mug_tracking_output.mp4
 ```
+![Tracking Demo](mug_tracking_output.gif)
 
 ---
 
