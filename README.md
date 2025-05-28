@@ -40,6 +40,8 @@ Output will be saved to:
 /content/drive/MyDrive/dataset/mug_tracking_output.mp4
 ```
 ![Tracking Demo](mug_tracking_output.gif)
+<img src="mug_tracking_output.gif" alt="Tracking Demo" width="800"/>
+
 
 ---
 
